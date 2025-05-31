@@ -52,9 +52,9 @@ I'm Utsav, originally from India, currently pursuing my Master's in Computer Sci
 
 ## GitHub Stats
 
-[![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)](https://github.com/v-utsav)
+[![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=v-utsav&show_icons=true&theme=default)](https://github.com/v-utsav)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/v-utsav)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-utsav&layout=compact)](https://github.com/v-utsav)
 
 ---
 
