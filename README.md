@@ -1,18 +1,18 @@
-<!-- Minimalist GitHub Profile README for John -->
+<!-- Versatile GitHub Profile README for John -->
 
-# Utsav Vithlani
+#Utsav Vithlani
 
-**Frontend Developer | Java Backend Enthusiast | CS Master's Student in Germany**
+**Frontend Developer | Backend Explorer | CS Master's Student in Germany**
 
 ---
 
 ## About Me
 
-I'm Utsav, originally from India, currently pursuing my Master's in Computer Science in Germany. My primary focus is building modern web interfaces using **React.js**, and I’m progressively diving into **backend development with Java (Spring Boot)**, aiming to become a well-rounded full-stack engineer.
+Hi, I’m Utsav — a developer from India, currently pursuing a Master's in Computer Science in Germany. I specialize in building intuitive web interfaces with **React.js** and am gaining hands-on experience with **Java (Spring Boot)** on the backend. While I have a strong foundation in this stack, I’m always eager to explore and work with other technologies across the full stack.
 
 ---
 
-## Tech Stack
+## Tech Stack (So Far)
 
 **Frontend:**
 - React.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, Tailwind CSS
@@ -20,17 +20,20 @@ I'm Utsav, originally from India, currently pursuing my Master's in Computer Sci
 **Backend:**
 - Java, Spring Boot, Spring MVC, REST APIs, PostgreSQL, MySQL
 
-**Dev Tools & Workflow:**
-- Git, GitHub, Postman, Docker, JUnit, Linux, CI/CD (learning)
+**Tools & Workflow:**
+- Git, GitHub, Postman, Docker (learning), JUnit, Linux, CI/CD (learning)
+
+> 🚀 I'm adaptable and open to learning new frameworks, languages, and tools based on project needs.
 
 ---
 
-## Current Focus
+## What I'm Working On
 
 - Building modular, scalable frontend apps with **React**
-- Mastering **Spring Boot** and backend design patterns
-- Starting full-stack projects with complete API integration
-- Learning Docker and automated testing tools
+- Deepening backend expertise with **Spring Boot**
+- Starting **full-stack projects** with complete API integrations
+- Learning **Docker** and **automated testing** practices
+- Exploring other backend frameworks and cloud platforms
 
 ---
 
@@ -38,15 +41,14 @@ I'm Utsav, originally from India, currently pursuing my Master's in Computer Sci
 
 - `portfolio-site` – Personal site built with React + Tailwind (in progress)
 - `spring-backend-api` – RESTful API using Java & Spring Boot
-- More projects coming soon...
+- More full-stack projects in the pipeline...
 
 ---
 
-## Contact
+## Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/utsav-rajendrabhai-vithlani-7785711ba)
+- [LinkedIn]([https://www.linkedin.com/in/username](https://www.linkedin.com/in/utsav-rajendrabhai-vithlani-7785711ba)
 - [GitHub](https://github.com/v-utsav)
-- 📬 vithlani.utsav18@gmail.com
 
 ---
 
@@ -57,4 +59,3 @@ I'm Utsav, originally from India, currently pursuing my Master's in Computer Sci
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-utsav&layout=compact)](https://github.com/v-utsav)
 
 ---
-
