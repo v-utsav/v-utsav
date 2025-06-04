@@ -1,6 +1,6 @@
 <!-- Versatile GitHub Profile README for John -->
 
-#Utsav Vithlani
+# Utsav Vithlani
 
 **Frontend Developer | Backend Explorer | CS Master's Student in Germany**
 
@@ -47,7 +47,7 @@ Hi, I’m Utsav — a developer from India, currently pursuing a Master's in Com
 
 ## Let's Connect
 
-- [LinkedIn]([https://www.linkedin.com/in/username](https://www.linkedin.com/in/utsav-rajendrabhai-vithlani-7785711ba)
+- [LinkedIn](https://www.linkedin.com/in/utsav-rajendrabhai-vithlani-7785711ba)
 - [GitHub](https://github.com/v-utsav)
 
 ---
