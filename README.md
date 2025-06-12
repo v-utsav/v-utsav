@@ -23,7 +23,7 @@ Hi, I’m Utsav — a developer from India, currently pursuing a Master's in Com
 **Tools & Workflow:**
 - Git, GitHub, Postman, Docker (learning), JUnit, Linux, CI/CD (learning)
 
-> 🚀 I'm adaptable and open to learning new frameworks, languages, and tools based on project needs.
+> I'm adaptable and open to learning new frameworks, languages, and tools based on project needs.
 
 ---
 
@@ -54,7 +54,7 @@ Hi, I’m Utsav — a developer from India, currently pursuing a Master's in Com
 
 ## GitHub Stats
 
-[![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=v-utsav&show_icons=true&theme=default)](https://github.com/v-utsav)
+<!-- [![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=v-utsav&show_icons=true&theme=default)](https://github.com/v-utsav) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-utsav&layout=compact)](https://github.com/v-utsav)
 
