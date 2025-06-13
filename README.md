@@ -64,7 +64,7 @@ Hi, I’m Utsav — a developer from India, currently pursuing a Master's in Com
 
 ## Competitive Programming
 
-[![LeetCode](https://leetcode.com/v_utsav)
+- [LeetCode](https://leetcode.com/v_utsav)
 I recently started solving problems on LeetCode to strengthen my data structures and algorithms skills.  
 
 ---
