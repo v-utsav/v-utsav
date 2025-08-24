@@ -8,7 +8,7 @@
 
 ## About Me
 
-Hi, I’m Utsav — a developer from India, currently pursuing a Master's in Computer Science in Germany. I specialize in building intuitive web interfaces with **React.js** and am gaining hands-on experience with **Java (Spring Boot)** on the backend. While I have a strong foundation in this stack, I’m always eager to explore and work with other technologies across the full stack.
+Hi, I’m Utsav, currently pursuing a Master's in Computer Science at University of Bonn in Germany. I specialize in building intuitive web interfaces with **React.js** and am gaining hands-on experience with **Java (Spring Boot)** on the backend. While I have a strong foundation in this stack, I’m always eager to explore and work with other technologies across the full stack.
 
 ---
 
