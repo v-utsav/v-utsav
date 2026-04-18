@@ -2,13 +2,13 @@
 
 # Utsav Vithlani
 
-**Frontend Developer | Backend Explorer | CS Master's Student in Germany**
+**Frontend Developer**
 
 ---
 
 ## About Me
 
-Hi, I’m Utsav, currently pursuing a Master's in Computer Science at University of Bonn in Germany. I specialize in building intuitive web interfaces with **React.js** and am gaining hands-on experience with **Java (Spring Boot)** on the backend. While I have a strong foundation in this stack, I’m always eager to explore and work with other technologies across the full stack.
+Hi, I’m Utsav, currently pursuing a Master's in Computer Science at University of Bonn in Germany. I specialize in building intuitive web interfaces with **React.js**. While I have a strong foundation in React.js, I’m always eager to explore and work with other technologies across the full stack.
 
 ---
 
@@ -17,11 +17,8 @@ Hi, I’m Utsav, currently pursuing a Master's in Computer Science at University
 **Frontend:**
 - React.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, Tailwind CSS
 
-**Backend:**
-- Java, Spring Boot, Spring MVC, REST APIs, PostgreSQL, MySQL
-
 **Tools & Workflow:**
-- Git, GitHub, Postman, Docker (learning), JUnit, Linux, CI/CD (learning)
+- Git, GitHub, Postman, Docker (learning), Linux, CI/CD (learning)
 
 > I'm adaptable and open to learning new frameworks, languages, and tools based on project needs.
 
@@ -30,19 +27,7 @@ Hi, I’m Utsav, currently pursuing a Master's in Computer Science at University
 ## What I'm Working On
 
 - Building modular, scalable frontend apps with **React**
-- Deepening backend expertise with **Spring Boot**
-- Starting **full-stack projects** with complete API integrations
-- Learning **Docker** and **automated testing** practices
 - Exploring other backend frameworks and cloud platforms
-
----
-
-## Projects
-
-- `portfolio-site` – Personal site built with React + Tailwind (in progress)
-- `spring-backend-api` – RESTful API using Java & Spring Boot
-- More full-stack projects in the pipeline...
-
 ---
 
 ## Let's Connect
